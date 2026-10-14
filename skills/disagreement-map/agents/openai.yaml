@@ -1,0 +1,7 @@
+interface:
+  display_name: "分歧地图"
+  short_description: "看懂观点背后的前提和潜台词，查清依据，再用直白的话解释分歧"
+  default_prompt: "用 $disagreement-map 分析这些观点：考虑语境、前提和潜台词，查清关键依据，先用好懂的话给出判断。"
+
+policy:
+  allow_implicit_invocation: true
